@@ -1,4 +1,9 @@
-Hi 👋 My name is Andrés M. <br/> Web Developer 👨🏻‍💻 <br/><br/> * 🌎  I'm based in Barranquilla, Colombia 🇨🇴 <br/> * 🧠  I'm learning Node.js and Python <br/> * 🤝  I'm open to collaborating on everything web related <br/> * 💎  Holder
+# Hi 👋 My name is Andrés M.
+## Web Developer 👨🏻‍💻
+* 🌎  I'm based in Barranquilla, Colombia 🇨🇴
+* 🧠  I'm learning Node.js and Python
+* 🤝  I'm open to collaborating on everything web related
+* 💎  Holder
 
 ### Skills  
 
